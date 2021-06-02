@@ -55,4 +55,3 @@ class TestMC(unittest.TestCase):
 if __name__ == "__main__":
     unittest.main()
 
-delay(10000)
